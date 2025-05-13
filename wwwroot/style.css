@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+input, select, button {
+  margin: 5px;
+}
