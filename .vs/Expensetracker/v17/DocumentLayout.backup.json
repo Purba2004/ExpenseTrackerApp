@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E39804-98BC-4D47-8ED2-9234C75312C8}|Expensetracker.csproj|c:\\users\\kiit\\onedrive\\desktop\\digital-nurture-4.0-dotnetfse-main\\expensetracker\\database\\bob@gmail.com_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07E39804-98BC-4D47-8ED2-9234C75312C8}|Expensetracker.csproj|solutionrelative:database\\bob@gmail.com_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E39804-98BC-4D47-8ED2-9234C75312C8}|Expensetracker.csproj|c:\\users\\kiit\\onedrive\\desktop\\digital-nurture-4.0-dotnetfse-main\\expensetracker\\database\\alice@gmail.com_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{07E39804-98BC-4D47-8ED2-9234C75312C8}|Expensetracker.csproj|solutionrelative:database\\alice@gmail.com_data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E39804-98BC-4D47-8ED2-9234C75312C8}|Expensetracker.csproj|c:\\users\\kiit\\onedrive\\desktop\\digital-nurture-4.0-dotnetfse-main\\expensetracker\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E39804-98BC-4D47-8ED2-9234C75312C8}|Expensetracker.csproj|solutionrelative:services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E39804-98BC-4D47-8ED2-9234C75312C8}|Expensetracker.csproj|c:\\users\\kiit\\onedrive\\desktop\\digital-nurture-4.0-dotnetfse-main\\expensetracker\\services\\calendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E39804-98BC-4D47-8ED2-9234C75312C8}|Expensetracker.csproj|solutionrelative:services\\calendarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E39804-98BC-4D47-8ED2-9234C75312C8}|Expensetracker.csproj|c:\\users\\kiit\\onedrive\\desktop\\digital-nurture-4.0-dotnetfse-main\\expensetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E39804-98BC-4D47-8ED2-9234C75312C8}|Expensetracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "alice@gmail.com_data.txt",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\Database\\alice@gmail.com_data.txt",
+              "RelativeDocumentMoniker": "Database\\alice@gmail.com_data.txt",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\Database\\alice@gmail.com_data.txt",
+              "RelativeToolTip": "Database\\alice@gmail.com_data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-03T19:58:47.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bob@gmail.com_data.txt",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\Database\\bob@gmail.com_data.txt",
+              "RelativeDocumentMoniker": "Database\\bob@gmail.com_data.txt",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\Database\\bob@gmail.com_data.txt",
+              "RelativeToolTip": "Database\\bob@gmail.com_data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-03T19:58:45.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalendarService.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\Services\\CalendarService.cs",
+              "RelativeDocumentMoniker": "Services\\CalendarService.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\Services\\CalendarService.cs",
+              "RelativeToolTip": "Services\\CalendarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:57:13.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\Services\\AdminService.cs",
+              "RelativeToolTip": "Services\\AdminService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwD4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:51:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\Digital-Nurture-4.0-DotNetFSE-main\\Expensetracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vwsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T19:12:57.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
