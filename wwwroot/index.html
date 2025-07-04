@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Expense Tracker</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1>Expense Tracker</h1>
+    <div id="auth">
+        <input id="username" placeholder="Username" />
+        <input id="password" placeholder="Password" type="password" />
+        <button onclick="signup()">Sign Up</button>
+        <button onclick="login()">Login</button>
+    </div>
+    <div id="main" style="display:none;">
+        <h2 id="welcome"></h2>
+        <input id="category" placeholder="Category (Grocery, Travel...)" />
+        <input id="amount" placeholder="Amount" type="number" />
+        <select id="type">
+            <option value="+">Credit (+)</option>
+            <option value="-">Debit (-)</option>
+        </select>
+        <button onclick="addExpense()">Add</button>
+        <h3>Expenses</h3>
+        <table border="1" id="table"></table>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
